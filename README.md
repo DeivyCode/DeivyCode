@@ -1,6 +1,14 @@
-### Hi there 👋, I am DeivyCode!
+### Hi there <img src="https://raw.githubusercontent.com/n0obit4/n0obit4/master/wave.gif" width="30px">, I am DeivyCode!
 
 ---
+## &#x1F340; Social networks
+<br>
+
+[![GitHub User's stars](https://img.shields.io/github/stars/DeivyCode?style=social)](https://github.com/DeivyCode?tab=stars)
+[![GitHub followers](https://img.shields.io/github/followers/DeivyCode?style=social)](https://github.com/DeivyCode?tab=followers)
+<br>
+<br>
+
 ## &#x1F62C; Some curious things about me.
 
 - 🔭 I’m currently working on flutter apps
@@ -18,3 +26,10 @@
 ---
 
 ## 🔧 Technologies & Tools
+
+
+![](https://img.shields.io/badge/.NET-API-informational?style=flat&logo=dotnet&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CSharp-Code-informational?style=flat&logo=csharp&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Dart-Code-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Flutter-Code-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Javascript-Code-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
