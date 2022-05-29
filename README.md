@@ -1,14 +1,6 @@
 ### Hi there 👋, I am DeivyCode!
 
 ---
-## &#x1F340; Social networks
-<br>
-
-[![GitHub User's stars](https://img.shields.io/github/stars/DeivyCode?style=social)](https://github.com/DeivyCode?tab=stars)
-[![GitHub followers](https://img.shields.io/github/followers/DeivyCode?style=social)](https://github.com/DeivyCode?tab=followers)
-<br>
-<br>
-
 ## &#x1F62C; Some curious things about me.
 
 - 🔭 I’m currently working on flutter apps
