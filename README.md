@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/n0obit4/n0obit4/master/wave.gif" width="30px">, I am DeivyCode!
+### Hi there, I am DeivyCode!
 
 ---
 ## &#x1F340; Social networks
