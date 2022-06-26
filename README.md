@@ -1,4 +1,4 @@
-### Hi there, I am DeivyCode!
+### Hi there, I am Deivy!
 
 ---
 ## &#x1F340; Social networks
@@ -12,9 +12,8 @@
 ## &#x1F62C; Some curious things about me.
 
 - 🔭 I’m currently working on flutter apps
-- 🌱 I’m currently learning Flutter / Dart
-- 🤔 I’m looking for help with deep C# programming
-
+- 🌱 I’m currently learning Flutter / Dart & Python
+- 🤔 I’m looking for help with deep Python programming
 ---
 
 ## &#x1f4c8; My GitHub Stats
