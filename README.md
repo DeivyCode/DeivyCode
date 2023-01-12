@@ -16,13 +16,13 @@
 - 🤔 I’m looking for help with deep Python programming
 ---
 
-## &#x1f4c8; My GitHub Stats
+<!-- ## &#x1f4c8; My GitHub Stats
 <br>
 
 
 [![Catalin's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeivyCode&show_icons=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)](https://github.com/DeivyCode) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivyCode&layout=compact)](https://github.com/DeivyCode/mango_movil)
-
+ -->
 ---
 
 ## 🔧 Technologies & Tools
