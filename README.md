@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on flutter apps
 - 🌱 I’m currently learning Flutter / Dart & Python
 - 🤔 I’m looking for help with deep Python programming
----
+<!-- --- -->
 
 <!-- ## &#x1f4c8; My GitHub Stats
 <br>
